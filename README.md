@@ -1,13 +1,13 @@
 # hello-world
 
- > ***Do whatever you want***
+ > ***Do whatever you want***    
  > 当我老去，回顾一生，我想说，“哇，那是一场冒险“；而不是，“哇，我真的很安稳。“
  
  
 ## 如何提issue?
 
 练习操作请访问(也可在本页面直接点Issues进入)：
-> https://github.com/Missgentlenessless/hello-world/issues
+[ https://github.com/Missgentlenessless/hello-world/issues ]
 
 - 点击New issue (当然没账号要先注册，没登录要先登录)
 <img src= "https://github.com/Missgentlenessless/hello-world/blob/master/1.png">
@@ -19,6 +19,6 @@
 <img src= "https://github.com/Missgentlenessless/hello-world/blob/master/3.png">
  
 如该演示例子issue链接为：
-> https://github.com/Missgentlenessless/hello-world/issues/3#issue-443693807
+[ https://github.com/Missgentlenessless/hello-world/issues/3#issue-443693807 ]
 
 
