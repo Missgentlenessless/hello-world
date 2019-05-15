@@ -12,8 +12,10 @@
 <img src= "https://github.com/Missgentlenessless/hello-world/blob/master/1.png">
  
 - 编辑你的issue (可以选择一个标签标记issue类型)
+<img src= "https://github.com/Missgentlenessless/hello-world/blob/master/2.png">
  
 - 复制你的issue链接分享到技术交流群(也可以直接复制地址栏url)
+<img src= "https://github.com/Missgentlenessless/hello-world/blob/master/3.png">
  
 如该演示例子issue链接为：
 > https://github.com/Missgentlenessless/hello-world/issues/3#issue-443693807
