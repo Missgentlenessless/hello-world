@@ -3,7 +3,7 @@
  Do whatever you want
  
  
-##如何提issue?
+## 如何提issue?
 
 练习操作请访问(也可在本页面直接点Issues进入)：
 > https://github.com/Missgentlenessless/hello-world/issues
