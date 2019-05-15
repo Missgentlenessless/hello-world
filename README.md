@@ -7,7 +7,7 @@
 ## 如何提issue?
 
 练习操作请访问(也可在本页面直接点Issues进入)：    
-[ https://github.com/Missgentlenessless/hello-world/issues ]
+[]( https://github.com/Missgentlenessless/hello-world/issues )
 
 - 点击New issue (当然没账号要先注册，没登录要先登录)
 <img src= "https://github.com/Missgentlenessless/hello-world/blob/master/1.png">
