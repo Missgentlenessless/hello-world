@@ -9,8 +9,8 @@
 练习操作请访问(也可在本页面直接点Issues进入)：    
  https://github.com/missgentle/hello-world/issues 
  
-正式提issue请访问：
-  https://github.com/missgentle/hello-world/issues 
+正式提issue请访问：    
+ https://github.com/missgentle/Q-A/issues 
 
 
 - 点击New issue (当然没账号要先注册，没登录要先登录)
