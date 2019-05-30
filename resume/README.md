@@ -2,7 +2,7 @@
 
 ### missgentle
 
-- **岗位：** Web 前端开发-1年
-- **工具：** Sublime Text ，IntelliJ IDEA
-- **语言：** TypeScript ， kotlin ， flex
+- **岗位：** Web 前端开发  1 year
+- **工具：** Sublime Text ，IntelliJ IDEA ， mongodb
+- **语言：** TypeScript ， kotlin ， flex 
 - **环境：** Nodejs ， webpack ， express ， reactjs
