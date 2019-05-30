@@ -59,10 +59,22 @@
  <img src= "https://github.com/missgentle/hello-world/blob/master/stepsImg/3-2.png">
  
  - 了解一下删除仓库有什么后果，并在输入框中输入要删除的仓库的名字 (真的好人性化呀)
-  <img src= "https://github.com/missgentle/hello-world/blob/master/stepsImg/3-3.png">
+ <img src= "https://github.com/missgentle/hello-world/blob/master/stepsImg/3-3.png">
   
  - 仓库名输入正确就可以点 I understand 删除你的仓库啦
  
+ -------------------------------------------------------------------------------------------
+ 
+  ## 3 如何在仓库中创建和删除文件夹?
+  
+  - 和创建文件一样，在仓库中点击 Create new file
+  <img src= "https://github.com/missgentle/hello-world/blob/master/stepsImg/4-1.png">
+  
+  - 命名的时候文件夹名字后面加个斜杠/，就会自动创建文件夹啦
+  <img src= "https://github.com/missgentle/hello-world/blob/master/stepsImg/4-2.png">
+  
+  - 想删除文件夹只需将该文件夹下所有文件都删除，文件夹就自动删除啦
+   
  -------------------------------------------------------------------------------------------
  
  
