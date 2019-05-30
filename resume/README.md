@@ -1,4 +1,4 @@
-## 简单介绍一下自己，找到你的target
+## 简单介绍一下自己吧，找到你的 target
 
 ### missgentle
 
