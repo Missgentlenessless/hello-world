@@ -16,7 +16,7 @@
 
 - 点击New issue (当然没账号要先注册，没登录要先登录)
 
-<img src= "https://github.com/missgentle/hello-world/blob/master/stepsImg/1-1.png">
+<img src= "stepsImg/1-1.png">
  
 - 编辑你的issue (可以选择一个标签标记issue类型)
 
